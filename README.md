@@ -187,23 +187,7 @@ fun_fact: >
   <img src="https://github-contributor-stats.vercel.app/api?username=Y0U5F&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
 <div align="center">
-
-## 💰 Support My Work
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zzzxxxking1@gmail.com)
-
-<br>
-
-### 📊 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=Y0U5F&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <br>
 
