@@ -3,7 +3,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Yousef%20Mahmoud&fontSize=90&fontAlignY=38&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20Solutions&descAlignY=55&descAlign=50&animation=twinkling)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADE3&center=true&vCenter=true&width=800&height=100&lines=ETL%2FELT+Pipeline+Architect+%F0%9F%9A%80;Data+Warehouse+Specialist+%F0%9F%8F%97%EF%B8%8F;Apache+Spark+%7C+Kafka+%7C+Airflow+%E2%9A%A1;ITI+Data+Engineering+Track+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%9A;Linux+Power+User+%F0%9F%90%A7" alt="Typing SVG" />
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y0usefma7m0ud/)
